@@ -1,0 +1,16 @@
+apiVersion: v1
+entries:
+  cert-manager-webhook-inwx:
+  - apiVersion: v2
+    appVersion: 0.5.0
+    created: "2025-08-10T09:34:17.068621099Z"
+    description: A Helm chart cert-manager ACME Webhook for INWX
+    digest: 66d36d22c85133f41c39459b1ba306bd92705eeb4bb51647d492b3f9e3062bb7
+    maintainers:
+    - name: Stephan Müller
+      url: https://gitlab.com/smueller18/cert-manager-webhook-inwx
+    name: cert-manager-webhook-inwx
+    urls:
+    - https://github.com/Midor/helm_charts/releases/download/cert-manager-webhook-inwx-0.5.0/cert-manager-webhook-inwx-0.5.0.tgz
+    version: 0.5.0
+generated: "2025-08-10T09:34:17.068626519Z"
