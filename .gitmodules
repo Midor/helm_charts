@@ -1,0 +1,4 @@
+[submodule "charts/cert-manager-webhook-inwx"]
+	path = charts/cert-manager-webhook-inwx
+	url = git@github.com:Midor/cert-manager-webhook-inwx.git
+	branch = main
